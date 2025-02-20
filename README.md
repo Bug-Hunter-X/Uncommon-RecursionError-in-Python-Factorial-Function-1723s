@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates an uncommon recursion error.  The `factorial` function, while correctly calculating factorials for non-negative numbers, throws a `RecursionError` when a negative number is provided as input. The solution showcases a robust version of the function that handles such cases by raising a ValueError. 
